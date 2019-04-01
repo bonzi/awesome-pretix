@@ -11,6 +11,8 @@ A curated list of awesome [pretix](https://github.com/pretix/pretix) plugins, cl
   *  [Mobile Tickets](#mobile-tickets)
    * [Sales](#sales)
    * [Embedding and Static Content](#embedding-and-static-content)
+   * [Extras](#extras)
+
 
 # What is pretix?
 In there own words, ``Reinventing ticket presales, one ticket at a time.``
