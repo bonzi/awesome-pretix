@@ -39,3 +39,6 @@ It can be located at the pretix [github page](https://github.com/pretix/pretix)
 * [pretix-pages](https://github.com/pretix/pretix-pages) - Serve static pages (e.g. Terms of Service) on an events sales page with ease
 ## Extras
 * [pretix-clippy](https://github.com/pc-coholic/pretix-clippy) - Clippy for your pretix Control panel, Need I say any more?
+
+# CMS Integrations
+* [pretix-wp-plugin](https://github.com/jfwiebe/pretix-wp-plugin) - WordPress short code plugin   for the pretix widget
