@@ -35,10 +35,9 @@ It can be located at the pretix [github page](https://github.com/pretix/pretix)
 * [pretix-cartshare](https://github.com/pretix/pretix-cartshare) - Share predefined carts with a single link
 * [pretix-servicefees](https://github.com/pretix/pretix-servicefees) - Add a flat service fee to all your shops items
 ## Embedding and Static Content
-* [pretix-wp-plugin](https://github.com/jfwiebe/pretix-wp-plugin) - A plugin used to embed pretix event shop widgets in to Wordpress
 * [pretix-pages](https://github.com/pretix/pretix-pages) - Serve static pages (e.g. Terms of Service) on an events sales page with ease
 ## Extras
 * [pretix-clippy](https://github.com/pc-coholic/pretix-clippy) - Clippy for your pretix Control panel, Need I say any more?
 
 # CMS Integrations
-* [pretix-wp-plugin](https://github.com/jfwiebe/pretix-wp-plugin) - WordPress short code plugin   for the pretix widget
+* [pretix-wp-plugin](https://github.com/jfwiebe/pretix-wp-plugin) - A plugin used to embed pretix event shop widgets in to Wordpress
