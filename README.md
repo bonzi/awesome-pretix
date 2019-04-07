@@ -12,6 +12,7 @@ A curated list of awesome [pretix](https://github.com/pretix/pretix) plugins, cl
    * [Sales](#sales)
    * [Embedding and Static Content](#embedding-and-static-content)
    * [Extras](#extras)
+* [CMS Integrations](#cms-integrations)
 
 
 # What is pretix?
