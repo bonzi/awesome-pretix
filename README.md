@@ -30,7 +30,7 @@ It can be located at the pretix [github page](https://github.com/pretix/pretix)
 * [pretix-aqbanking](https://github.com/ev1313/pretix-aqbanking) - Uploads bank data from bank accounts supported by aqbanking
 
 # Plugins
-There is an additional [list of plugins](https://pretix.eu/about/en/plugins) on the pretix website.
+There is an additional [list of officially supported plugins](https://pretix.eu/about/en/plugins) on the pretix website.
 
 ## Mobile Tickets
 * [pretix-passbook](https://github.com/pretix/pretix-passbook) - Add event tickets to Passbook/Wallet with a single click
