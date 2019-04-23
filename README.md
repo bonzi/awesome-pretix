@@ -5,15 +5,15 @@ A curated list of awesome [pretix](https://github.com/pretix/pretix) plugins, cl
 
 # Table of Contents
 * [What is pretix?](#what-is-pretix)
-  * [Where to get it](#where-to-get-it) 
+   * [Where to get it](#where-to-get-it) 
 * [Clients](#clients)
 * [Plugins](#plugins)
-  *  [Mobile Tickets](#mobile-tickets)
+   * [Mobile Tickets](#mobile-tickets)
    * [Sales](#sales)
    * [Embedding and Static Content](#embedding-and-static-content)
    * [Extras](#extras)
 * [CMS Integrations](#cms-integrations)
-
+* [Talks](#talks)
 
 # What is pretix?
 In there own words, ``Reinventing ticket presales, one ticket at a time.``
@@ -47,3 +47,6 @@ There is an additional [list of officially supported plugins](https://pretix.eu/
 
 # CMS Integrations
 * [pretix-wp-plugin](https://github.com/jfwiebe/pretix-wp-plugin) - A plugin used to embed pretix event shop widgets in to Wordpress
+
+# Talks
+* [DjangoCon Europe 2019 - Building plugin ecosystems with Django](https://youtu.be/QbitxAEEZjI) - @raphaelm's talk at DjangoCon Europe 2019 gives an insight into making plugins not just for pretix, but for any other Django based application.
